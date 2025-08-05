@@ -1,6 +1,6 @@
 # Hi there, I'm Ayushi 👋
 
-I'm Ayushi, a passionate developer from Lucknow, India. I build full-stack web applications and love learning about new technologies.
+I'm Ayushi, a passionate developer from Kanpur, India. I build full-stack web applications and love learning about new technologies.
 
 ## 🚀 Projects
 
